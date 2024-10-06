@@ -2,7 +2,7 @@
 <div align="center">
   <img width="100%" alt="DINO illustration" src="dino.gif">
 </div>
-## Description
+
 
 This project implements an image retrieval system for histopathology images using the DINO self-supervised learning model. The goal is to retrieve similar histopathology images given a query image.
 
