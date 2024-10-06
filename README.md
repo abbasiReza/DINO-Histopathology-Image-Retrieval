@@ -34,6 +34,3 @@ The image retrieval system provides an interface to upload a query histology ima
 
 The project provides code to train the DINO encoder as well as utilities to index and search the image datasets.
 
-## References
-
-[DINO Paper]([https://arxiv.org/abs/2104.14294](https://arxiv.org/abs/2104.14294)https://arxiv.org/abs/2104.14294)
